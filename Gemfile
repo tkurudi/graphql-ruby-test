@@ -61,3 +61,6 @@ gem 'devise', '~> 4.6', '>= 4.6.1'
 group :development do
  gem 'faker', '~> 1.9', '>= 1.9.3'
  end
+
+ gem 'graphql', '~> 1.9', '>= 1.9.3'
+gem 'graphiql-rails', group: :development
